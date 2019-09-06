@@ -1,1 +1,3 @@
 Answers go here!
+Problem 1: needed to change invaderRow to invaderCol
+
